@@ -1,0 +1,6 @@
+neuron 417  max 2.3926  mean -0.0379  top tokens: ' and' x5
+   2.39   wrote Hamlet, Macbeth[ and] Othello, among many
+   2.32   river flows through Brazil, Peru[ and] Colombia before reaching the Atlantic Ocean
+   2.24  Tokyo, Osaka[ and] Kyoto are three of the largest
+   2.03   faster chip, a better camera[ and] a larger battery.
+   1.97  if x > 10[ and] y < 5: raise Value

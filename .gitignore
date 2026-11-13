@@ -1,6 +1,4 @@
 __pycache__/
+*.egg-info/
 .pytest_cache/
-*.pyc
-*.part
-/distilgpt2/
-/atlas-out/
+.venv/

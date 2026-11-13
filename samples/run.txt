@@ -1,0 +1,3 @@
+$ neuron-atlas build --model EleutherAI/pythia-14m --layer 3 --corpus samples/corpus.txt --out samples --skip-first --top-k 5
+model=EleutherAI/pythia-14m layer=3 neurons=512/512 texts=45 tokens=704
+wrote samples/atlas.json and samples/atlas.html

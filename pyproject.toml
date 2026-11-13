@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neuron-atlas"
+version = "0.1.0"
+description = "Rank the top-activating tokens and contexts of every MLP neuron in one layer of a tiny open language model on CPU; writes atlas.json and a single-file atlas.html"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = ["interpretability", "neurons", "transformers", "pythia", "gpt2", "cpu"]
+dependencies = []
+
+[project.optional-dependencies]
+model = ["torch>=2.1", "transformers>=4.40"]
+
+[project.urls]
+Homepage = "https://github.com/MegaStretch23/neuron-atlas"
+
+[project.scripts]
+neuron-atlas = "neuron_atlas.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

@@ -1,0 +1,45 @@
+The quick brown fox jumps over the lazy dog near the river bank.
+In 1969 the first humans walked on the Moon, and in 1989 the Berlin Wall fell.
+def add(a, b): return a + b  # add two numbers and return the sum
+To make pancakes, whisk two eggs with one cup of milk and a cup of flour.
+She said that she would call him tomorrow, but he never answered the phone.
+The meeting is on March 14, 2025 at 3:30 pm in room 204 of the main building.
+import numpy as np; x = np.zeros((3, 3)); print(x.shape)
+Paris is the capital of France, and Berlin is the capital of Germany.
+Please send the invoice for $1,250.00 to accounts@example.com before Friday.
+The cat sat on the mat while the dog slept under the table.
+Water boils at 100 degrees Celsius at sea level, and freezes at 0 degrees.
+if x > 10 and y < 5: raise ValueError("out of range")
+Although it was raining, they decided to walk to the station without umbrellas.
+Marie Curie won two Nobel Prizes, one in physics and one in chemistry.
+The server returned HTTP 404 because the file was not found on the host.
+He opened the old wooden door slowly and looked into the dark room.
+There are 7 days in a week, 12 months in a year, and 365 days in most years.
+for i in range(10): total += i * 2
+The committee voted to approve the budget, although several members objected.
+Add a pinch of salt, stir well, and let the soup simmer for twenty minutes.
+Shakespeare wrote Hamlet, Macbeth and Othello, among many other plays.
+The train from London to Edinburgh takes about four and a half hours.
+SELECT name, age FROM users WHERE age > 30 ORDER BY age DESC;
+It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.
+The Amazon river flows through Brazil, Peru and Colombia before reaching the Atlantic Ocean.
+Thank you for your email; I will reply to you as soon as I can.
+The stock rose 3.5% on Tuesday after the company reported higher earnings.
+Mix the red and the blue paint to get purple, then add a little white.
+class Dog: def __init__(self, name): self.name = name
+When the sun went down, the children ran home and the street grew quiet.
+Tokyo, Osaka and Kyoto are three of the largest cities in Japan.
+The doctor told him to drink more water and to sleep at least eight hours.
+git commit -m "fix bug" && git push origin main
+My brother bought a used car for 4,000 dollars and sold it a year later.
+Mount Everest is 8,849 meters tall and sits on the border of Nepal and China.
+They were happy, because the weather was warm and the food was delicious.
+The library opens at 9 am and closes at 6 pm from Monday to Saturday.
+Albert Einstein published the theory of special relativity in 1905.
+Click the button below to download the report, then open it in your browser.
+Who is going to the party, and what should we bring with us?
+Neither the teacher nor the students noticed the small bird on the window.
+The function returns None if the list is empty, otherwise the first item.
+After dinner we watched a film, played cards, and went to bed late.
+Honey is made by bees, which collect nectar from many different flowers.
+The new phone has a faster chip, a better camera and a larger battery.
