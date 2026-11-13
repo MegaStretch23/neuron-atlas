@@ -1,0 +1,9 @@
+{
+ "docs": 49,
+ "tokens_compared": 2553,
+ "tokenizer_mismatching_docs": 0,
+ "max_abs_logit_diff": 0.00019073486328125,
+ "max_abs_mlp_activation_diff": 5.340576171875e-05,
+ "torch": "2.15.0+cpu",
+ "transformers": "5.22.2"
+}
